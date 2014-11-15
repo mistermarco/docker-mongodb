@@ -1,0 +1,3 @@
+https://docs.docker.com/examples/mongodb/
+https://sebastianvoss.com/docker-mongodb-sharded-cluster.html
+https://crosbymichael.com/dockerfile-best-practices.html (for the switch to an array)
